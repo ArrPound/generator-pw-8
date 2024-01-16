@@ -33,7 +33,6 @@ body   {
 .container h1{
     font-weight: 500;
     font-size: 40px;
-    letter-spacing: 1px;
 }
 .container h1 span {
     font-size: 35px;
